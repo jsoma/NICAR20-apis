@@ -1,1 +1,1 @@
-[Link to notebook](https://colab.research.google.com/github/jsoma/NICAR20-apis/Hitchhiker's Guide to APIs.ipynb)
+[Link to notebook](https://colab.research.google.com/github/jsoma/NICAR20-apis/blob/master/Hitchhiker's Guide to APIs.ipynb)
